@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "5dc497d06631467d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f92b35efde77939",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b1da7f7ed0b8106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65ed3c0ccc404e5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0911940e44ac9e3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f0b5a3bbf45f8a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14743f95c2ea4f68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65fb8f64711b1fcf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2eba1f48da22383f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a407e8385d6a2a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f802f08c312e1862",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f278d6375e649e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9438fabe32a2ec81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ffbe35203424073f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "bf179a51d6e431ac",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "8b1da7f7ed0b8106",
+  "lastOpenFiles": [
+    "Attachments/Pasted image 20230313003605.png",
+    "Attachments/Pasted image 20230313003531.png",
+    "Attachments/Pasted image 20230313003328.png",
+    "AOA Lab/Experiment No 2.pdf",
+    "AOA Lab/~$uthMorrisPratt.docx",
+    "AOA Lab/AoA Experiment No 1 (1).pdf",
+    "AOA Lab/~$p 13 AOA.docx",
+    "AOA/Thomas Cormen - Introduction_To_Algorithms.pdf",
+    "AOA/Theory on String Matching.pdf",
+    "AOA/String Matching algorithms.pdf",
+    "AOA/AoA - Meenu Bhatia Notes.pdf",
+    "README.md",
+    "Python/Tkinter.md",
+    "Python/Lists_SiddharthBhatia_S11_11.pdf",
+    "TESC Calendar Final Corrected.pdf",
+    "SemIV.md",
+    "PT1 Syllabus.md",
+    "More.md",
+    "Microprocessor PT 1 Important Things.md",
+    "Teachers.md",
+    "Plan for 2nd March, 2023.md",
+    "OS Lab/OS Assignement 2.md",
+    "FUCK TSEC.md",
+    "Anuppcin Demo Doc.md",
+    "✏TO-DO.md",
+    "Post PT 1.md",
+    "Self-Learning.md",
+    "Day 36.md",
+    "Day 34.md",
+    "Day 35.md",
+    "Day 33.md",
+    "Day 31.md",
+    "Day 32.md",
+    "Day 30.md",
+    "To-Do 2.svg",
+    "Day 29.md",
+    "Pasted image 20230224000157.png",
+    "Pasted image 20230223235925.png",
+    "Pasted image 20230223235907.png"
+  ]
+}

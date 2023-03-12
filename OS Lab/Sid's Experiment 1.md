@@ -2,7 +2,7 @@
 
 mkdir - make a directory
 cd - change directory
-![Pasted image 20230117232405](Attachments/Pasted%20image%2020230117232405.png)
+![Pasted image 20230117232405](/Attachments/Pasted%20image%2020230117232405.png)
 cat - used to conCATenate a file. can be used to view the output of a file, create a file, and add text to a file.
 ![Pasted image 20230117232534](Attachments/Pasted%20image%2020230117232534.png)
 ls - lists all files

@@ -1,6 +1,6 @@
 ## Intention
 The intention of this Vault is to be a repository of the Academic Knowledge learnt in Semester IV of Bachelor of Engineering in Artificial Intelligence and Data Science. 
-![[Pasted image 20230313003605.png]]
+![Pasted image 20230313003605](Attachments/Pasted%20image%2020230313003605.png)
 *Download this Vault as a .zip, then extract it and open in Obsidian to access all features of this Vault.*
 
 ## Analysis of Algorithm
@@ -26,13 +26,13 @@ The intention of this Vault is to be a repository of the Academic Knowledge lear
 
 | Module |     | Content                                                                                                                                                                                                                                                                                                                        | Hrs | Course Material    |
 | ------ | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- |
-| 1      |     | Introduction Database Concepts                                                                                                                                                                                                                                                                                                 | 3   | [[Chapter 1-PPT.pdf]]    |
+| 1      |     | Introduction Database Concepts                                                                                                                                                                                                                                                                                                 | 3   | [Chapter 1-PPT](Chapter%201-PPT.pdf)    |
 |        | 1.1 | Introduction, Characteristics of databases, File system v/s Database system, Data abstraction and data Independence, DBMS system architecture, Database Administrator                                                                                                                                                          |     |     |
-| 2      |     | Entity-Relationship Data Model                                                                                                                                                                                                                                                                                                 | 6   | [[ER-1.pdf]] [[EER PPT FINAL.pdf]]    |
+| 2      |     | Entity-Relationship Data Model                                                                                                                                                                                                                                                                                                 | 6   | [ER-1](ER-1.pdf) [EER PPT FINAL](EER%20PPT%20FINAL.pdf)    |
 |        | 2.1 | The Entity-Relationship (ER) Model: Entity types: Weak and strong entity sets, Entity sets, Types of Attributes, Keys, Relationship constraints: Cardinality and Participation, Extended Entity-Relationship (EER) Model: Generalization, Specialization and Aggregation                                                       |     |     |
-| 3      |     | Relational Model and relational Algebra                                                                                                                                                                                                                                                                                        | 8   | [[Mapping of ER and EER to Relational.pdf]]    |
+| 3      |     | Relational Model and relational Algebra                                                                                                                                                                                                                                                                                        | 8   | [Mapping of ER and EER to Relational](Mapping%20of%20ER%20and%20EER%20to%20Relational.pdf)    |
 |        | 3.1 | Introduction to the Relational Model, relational schema and concept of keys. Mapping the ER and EER Model to the Relational Model, Relational Algebra-operators, Relational Algebra Queries.                                                                                                                                   |     |     |
-| 4      |     | Structured Query Language (SQL)                                                                                                                                                                                                                                                                                                | 6   | [[DBMS_Module-4.pdf]]    |
+| 4      |     | Structured Query Language (SQL)                                                                                                                                                                                                                                                                                                | 6   | [DBMS_Module-4](DBMS_Module-4.pdf)    |
 |        | 4.1 | Overview of SQL, Data Definition Commands, Integrity constraints: key constraints, Domain Constraints, Referential integrity , check constraints, Data Manipulation commands, Data Control commands, Set and string operations, aggregate function-group by, having, Views in SQL, joins, Nested and complex queries, Triggers |     |     |
 | 5      |     | Relational-Database Design                                                                                                                                                                                                                                                                                                     | 6   |     |
 |        | 5.1 | Pitfalls in Relational-Database designs, Concept of normalization, Function Dependencies, First Normal Form, 2NF, 3NF, BCNF.                                                                                                                                                                                                   |     |     |
@@ -43,11 +43,11 @@ The intention of this Vault is to be a repository of the Academic Knowledge lear
 
 | Module |     | Content                                                                                                                                                                                        | Hours | Course Material    |
 | ------ | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- |
-| 1      |     | Operating system Overview                                                                                                                                                                      | 4     | [[OS chapter 1 ppt.pptx]]    |
+| 1      |     | Operating system Overview                                                                                                                                                                      | 4     | [OS chapter 1 ppt](OS%20chapter%201%20ppt.pptx)    |
 |        | 1.1 | Introduction, Objectives, Functions and Evolution of Operating System                                                                                                                          |       |     |
 |        | 1.2 | Operating system structures: Layered, Monolithic and Microkernel                                                                                                                               |       |     |
 |        | 1.3 | Linux Kernel, Shell and System Calls                                                                                                                                                           |       |     |
-| 2      |     | Process and Process Scheduling                                                                                                                                                                 | 9     | [[OS_AI&DS_Unit-II_Pdf.pdf]]    |
+| 2      |     | Process and Process Scheduling                                                                                                                                                                 | 9     | [OS_AI&DS_Unit-II_Pdf](OS_AI&DS_Unit-II_Pdf.pdf)    |
 |        | 2.1 | Concept of a Process, Process States, Process Description, Process Control Block.                                                                                                              |       |     |
 |        | 2.2 | Uniprocessor Scheduling-Types: Preemptive and Non-preemptive scheduling algorithms (FCFS, SJF, SRTN, Priority, RR)                                                                             |       |     |
 |        | 2.3 | Threads: Definition and Types, Concept of Multithreading                                                                                                                                       |       |     |
@@ -58,7 +58,7 @@ The intention of this Vault is to be a repository of the Academic Knowledge lear
 | 4      |     | Memory Management                                                                                                                                                                              | 9     |     |
 |        | 4.1 | Memory Management Requirements, Memory Partitioning: Fixed, Partitioning, Dynamic Partitioning, Memory Allocation Strategies: Best-Fit, First Fit, Worst Fit, Paging and Segmentation, TLB     |       |     |
 |        | 4.2 | Virtual Memory: Demand Paging, Page Replacement Strategies: FIFO, Optimal, LRU, Thrashing                                                                                                      |       |     |
-| 5      |     | File Management                                                                                                                                                                                | 4     | [[Chap 05 File Management-1.pptx]]    |
+| 5      |     | File Management                                                                                                                                                                                | 4     | [Chap 05 File Management-1](Chap%2005%20File%20Management-1.pptx)    |
 |        | 5.1 | Overview, File Organization and Access, File Directories, File Sharing                                                                                                                         |       |     |
 | 6      |     | I/O management                                                                                                                                                                                 | 4     |     |
 |        | 6.1 | I/O devices, Organization of the I/O Function, Disk Organization, I/O Management and Disk Scheduling: FCFS, SSTF, SCAN, CSCAN, LOOK, C-LOOK.                                                   |       |     |
@@ -104,15 +104,15 @@ The intention of this Vault is to be a repository of the Academic Knowledge lear
 |        | 6.3 | Instruction translation look aside buffer and branch prediction                                                                                                                  |       |     |
 |        | 6.4 | Hyper threading technology and its use in Pentium 4                                                                                                                              |       |     |
 
-[[Architecture of 8086 Microprocessor.jpg]]
-[[LECTURE 01_8086 Architecture.ppt.pdf]]
-[[LECTURE 02_8086 Pin Configuration.ppt.pdf]]
-[[LECTURE 03_8086_Assembler Directives.ppt.pdf]]
-[[LECTURE 04_8086_Addressing modes.ppt.pdf]]
-[[LECTURE 05_8086_Instruction Set.pptx]]
-[[LECTURE 06_8086 Memory.pdf]]
-[[LECTURE 07_8086_Operating Modes.pdf]]
-[[MPModule2.pdf]]
+[Architecture of 8086 Microprocessor](Architecture%20of%208086%20Microprocessor.jpg)
+[LECTURE 01_8086 Architecture.ppt](LECTURE%2001_8086%20Architecture.ppt.pdf)
+[LECTURE 02_8086 Pin Configuration.ppt](LECTURE%2002_8086%20Pin%20Configuration.ppt.pdf)
+[LECTURE 03_8086_Assembler Directives.ppt](LECTURE%2003_8086_Assembler%20Directives.ppt.pdf)
+[LECTURE 04_8086_Addressing modes.ppt](LECTURE%2004_8086_Addressing%20modes.ppt.pdf)
+[LECTURE 05_8086_Instruction Set](LECTURE%2005_8086_Instruction%20Set.pptx)
+[LECTURE 06_8086 Memory](LECTURE%2006_8086%20Memory.pdf)
+[LECTURE 07_8086_Operating Modes](LECTURE%2007_8086_Operating%20Modes.pdf)
+[MPModule2](MPModule2.pdf)
 ## Python Programming (Skill Base Lab Course)
 
 | Module |     | Detailed Content                                                                                                                                                                                                                                     | Hours | Course Material    |

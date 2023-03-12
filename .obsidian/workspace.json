@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "OS Lab/Sid's Experiment 1.md",
+                "mode": "preview",
+                "source": true
               }
+            }
+          },
+          {
+            "id": "d713c4c87e1f019f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "OS Lab/Sid's Experiment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "OS Lab/Sid's Experiment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "OS Lab/Sid's Experiment 1.md"
               }
             }
           },
@@ -156,6 +164,10 @@
   },
   "active": "8b1da7f7ed0b8106",
   "lastOpenFiles": [
+    "OS Lab/Sid's Experiment 1.md",
+    "OS Lab/OS Assignement 2.md",
+    "OS Lab/Lab 1.md",
+    "README.md",
     "Attachments/Pasted image 20230313003605.png",
     "Attachments/Pasted image 20230313003531.png",
     "Attachments/Pasted image 20230313003328.png",
@@ -167,7 +179,6 @@
     "AOA/Theory on String Matching.pdf",
     "AOA/String Matching algorithms.pdf",
     "AOA/AoA - Meenu Bhatia Notes.pdf",
-    "README.md",
     "Python/Tkinter.md",
     "Python/Lists_SiddharthBhatia_S11_11.pdf",
     "TESC Calendar Final Corrected.pdf",
@@ -177,7 +188,6 @@
     "Microprocessor PT 1 Important Things.md",
     "Teachers.md",
     "Plan for 2nd March, 2023.md",
-    "OS Lab/OS Assignement 2.md",
     "FUCK TSEC.md",
     "Anuppcin Demo Doc.md",
     "✏TO-DO.md",

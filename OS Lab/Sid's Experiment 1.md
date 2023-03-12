@@ -2,36 +2,36 @@
 
 mkdir - make a directory
 cd - change directory
-![[Pasted image 20230117232405.png]]
+![Pasted image 20230117232405](Attachments/Pasted%20image%2020230117232405.png)
 cat - used to conCATenate a file. can be used to view the output of a file, create a file, and add text to a file.
-![[Pasted image 20230117232534.png]]
+![Pasted image 20230117232534](Attachments/Pasted%20image%2020230117232534.png)
 ls - lists all files
-![[Pasted image 20230117231553.png]]
+![Pasted image 20230117231553](Attachments/Pasted%20image%2020230117231553.png)
 ls -l - lists all files in long form
-![[Pasted image 20230117231638.png]]
+![Pasted image 20230117231638](Attachments/Pasted%20image%2020230117231638.png)
 ls -lh - lists long form in human readable format
-![[Pasted image 20230117231831.png]]
+![Pasted image 20230117231831](Attachments/Pasted%20image%2020230117231831.png)
 ls -ld - Used to see permissions for a directory
-![[Pasted image 20230117231912.png]]
+![Pasted image 20230117231912](Attachments/Pasted%20image%2020230117231912.png)
 ls -a - used to see a list of all files, including hidden files
-![[Pasted image 20230117232048.png]]
+![Pasted image 20230117232048](Attachments/Pasted%20image%2020230117232048.png)
 whoami - used to see current user
-![[Pasted image 20230117232238.png]]
+![Pasted image 20230117232238](Attachments/Pasted%20image%2020230117232238.png)
 pwd - used to see Present Working Directory
-![[Pasted image 20230117232306.png]]
+![Pasted image 20230117232306](Attachments/Pasted%20image%2020230117232306.png)
 
 chmod -Change file access permissions.
-![[Pasted image 20230118200703.png]]
+![Pasted image 20230118200703](Attachments/Pasted%20image%2020230118200703.png)
 chown - Change ownership of the file.
-![[Pasted image 20230118201032.png]]
+![Pasted image 20230118201032](Attachments/Pasted%20image%2020230118201032.png)
 chgrp - Change the group ownership of the file
-![[Pasted image 20230118201213.png]]
+![Pasted image 20230118201213](Attachments/Pasted%20image%2020230118201213.png)
 cal - displays calendar
-![[Pasted image 20230117231026.png]]
+![Pasted image 20230117231026](Attachments/Pasted%20image%2020230117231026.png)
 ps - report a snapshot of current processes
-![[Pasted image 20230117231158.png]]
+![Pasted image 20230117231158](Attachments/Pasted%20image%2020230117231158.png)
 pstree - see process tree
-![[Pasted image 20230117231124.png]]
+![Pasted image 20230117231124](Attachments/Pasted%20image%2020230117231124.png)
 # System Calls
 ```c
 #include<unistd.h>
@@ -61,7 +61,7 @@ return 0;
 // Compile and execute this program by typing 'gcc -o readwriteopenclose readwriteopenclose.c' and then ./readwriteopenclose
 ```
 
-![[Pasted image 20230118212107.png]]
+![Pasted image 20230118212107](Attachments/Pasted%20image%2020230118212107.png)
 # Processor ID
 
 ```c
@@ -103,15 +103,15 @@ main() {
 }
 ```
 
-![[Pasted image 20230124202139.png]]
+![Pasted image 20230124202139](Attachments/Pasted%20image%2020230124202139.png)
 
 # Sort, Grep, AWK
 
 Sort
-![[Pasted image 20230117224552.png]]
+![Pasted image 20230117224552](Attachments/Pasted%20image%2020230117224552.png)
 
 grep
-![[Pasted image 20230117225745.png]]
+![Pasted image 20230117225745](Attachments/Pasted%20image%2020230117225745.png)
 
 awk
-![[Pasted image 20230117230126.png]]
+![Pasted image 20230117230126](Attachments/Pasted%20image%2020230117230126.png)

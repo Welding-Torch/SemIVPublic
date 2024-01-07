@@ -1,7 +1,13 @@
 ## Intention
 The intention of this Vault is to be a repository of the Academic Knowledge learnt in Semester IV of Bachelor of Engineering in Artificial Intelligence and Data Science. 
 ![Pasted image 20230313003605](Attachments/Pasted%20image%2020230313003605.png)
-*Download this Vault as a .zip, then extract it and open in Obsidian to access all features of this Vault.*
+
+## How To Use
+[Download this Vault](https://github.com/Welding-Torch/SemIVPublic/releases/download/publish/SemIVPublic.zip) as a .zip, then extract it. Then download and install [Obsidian](https://obsidian.md/) to access all features of this Vault.
+
+Once you have Obsidian installed on your Computer, then inside Obsidian click the 'Vault Switcher' icon in the bottom left and then select 'Open Folder as Vault'. Select the previously extracted zip file. Your Vault should now open with all the extensions and content installed.
+
+Below is just the frontpage of it.
 
 ## Analysis of Algorithm
 
